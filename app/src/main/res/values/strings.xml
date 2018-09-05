@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string-array name="cars">select cars
+        <item>BMW</item>
+        <item>Audi</item>
+        <item>Benz</item>
+    </string-array>
+    <string-array name="mImageId">
+        <item></item>
+    </string-array>
+</resources>
